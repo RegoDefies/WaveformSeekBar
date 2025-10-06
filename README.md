@@ -1,7 +1,7 @@
 # WaveformSeekBar
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![JitPack](https://jitpack.io/v/rego-defies/WaveformSeekBar.svg)](https://jitpack.io/#rego-defies/WaveformSeekBar)
+[![JitPack](jitpack.io/v/RegoDefies/WaveformSeekBar.svg)](https://jitpack.io/#RegoDefies/WaveformSeekBar)
 ![Android 15+](https://img.shields.io/badge/API-36%2B-blue)
 ![Alignment](https://img.shields.io/badge/16KB-ready-success)
 ![Language](https://img.shields.io/badge/Kotlin-1.9.25-9cf)
