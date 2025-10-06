@@ -1,13 +1,13 @@
 # WaveformSeekBar
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![JitPack](jitpack.io/v/RegoDefies/WaveformSeekBar.svg)](https://jitpack.io/#RegoDefies/WaveformSeekBar)
+[![JitPack](https://jitpack.io/v/RegoDefies/WaveformSeekBar.svg)](https://jitpack.io/#RegoDefies/WaveformSeekBar)
 ![Android 15+](https://img.shields.io/badge/API-36%2B-blue)
 ![Alignment](https://img.shields.io/badge/16KB-ready-success)
 ![Language](https://img.shields.io/badge/Kotlin-1.9.25-9cf)
 ![Gradle](https://img.shields.io/badge/Gradle-8.7-brightgreen)
 
-# WaveformSeekBar 🎚️  
+# WaveformSeekBar
 **Enhanced audio waveform visualization and seek bar for Android**
 
 This repository provides a modernized version of the [WaveformSeekBar](https://github.com/massoudss/waveformSeekBar) library — rebuilt and optimized for **Android 15+ (API 36)** and devices using **16 KB memory pages**.  
