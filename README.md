@@ -167,7 +167,7 @@ This prevents unnecessary extraction of native Amplituda libraries.
 
 | WaveformSeekBar | Amplituda | Android API | Notes |
 |------------------|------------|--------------|--------|
-| 6.0.0 | 2.3.1 | 24–36 | 16 KB page size compliant |
+| 5.1.3 | 2.3.1 | 24–36 | 16 KB page size compliant |
 | 5.0.2 | 2.2.2 | 21–33 | Legacy version (deprecated) |
 
 ---
