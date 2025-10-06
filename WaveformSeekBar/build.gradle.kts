@@ -40,5 +40,5 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
-    implementation("com.github.lincollincol:amplituda:2.3.0")
+    api("com.github.lincollincol:amplituda:v2.3.1")
 }
