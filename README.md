@@ -21,7 +21,7 @@ It powers the waveform playback interface in apps such as [**Resus**](https://re
 | Feature | Description |
 |----------|--------------|
 | 🧠 **Android 15+ Ready** | Compiled with `compileSdk 36` and aligned to Google’s 16 KB standard |
-| ⚙️ **Updated Amplituda Core** | Integrated Amplituda **v2.3.0**, rebuilt with FFmpeg 7.1 |
+| ⚙️ **Updated Amplituda Core** | Integrated Amplituda **v2.3.1**, rebuilt with FFmpeg 7.1 |
 | 🧱 **Modern Build Stack** | Kotlin 1.9.25 • Gradle 8.7 • Java 21 |
 | 🧩 **Dependency Isolation** | The Amplituda dependency is bundled — no manual addition required |
 | 🚀 **Backward Compatible** | Works on all devices from **API 24+** |
@@ -167,7 +167,7 @@ This prevents unnecessary extraction of native Amplituda libraries.
 
 | WaveformSeekBar | Amplituda | Android API | Notes |
 |------------------|------------|--------------|--------|
-| 6.0.0 | 2.3.0 | 24–36 | 16 KB page size compliant |
+| 6.0.0 | 2.3.1 | 24–36 | 16 KB page size compliant |
 | 5.0.2 | 2.2.2 | 21–33 | Legacy version (deprecated) |
 
 ---
