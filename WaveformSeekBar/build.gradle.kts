@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.quantingo.waveformseekbar"
+    namespace = "com.masoudss.lib"
     compileSdk = 36
 
     defaultConfig {
@@ -40,4 +40,5 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    implementation("com.github.lincollincol:amplituda:2.3.0")
 }
